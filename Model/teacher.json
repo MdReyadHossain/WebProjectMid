@@ -1,0 +1,62 @@
+[
+    {
+        "sl": 1,
+        "fname": "Reyad",
+        "lname": "Hossain",
+        "gender": "male",
+        "dob": "1982-03-08",
+        "religion": "islam",
+        "preaddress": "Boshundhara r\/a, Dhaka, Bangladesh",
+        "paraddress": "",
+        "phone": "0195123123",
+        "email": "reyadhosen@gmail.com",
+        "website": "",
+        "username": "reyad",
+        "password": "reyadreyad"
+    },
+    {
+        "sl": 2,
+        "fname": "Nazia",
+        "lname": "Hasan",
+        "gender": "female",
+        "dob": "1982-03-08",
+        "religion": "islam",
+        "preaddress": "Boshundhara r.a, Dhaka, Bangladesh",
+        "paraddress": "",
+        "phone": "01789394973",
+        "email": "nazia@gmail.com",
+        "website": "",
+        "username": "nazia",
+        "password": "nazianazia"
+    },
+    {
+        "sl": 3,
+        "fname": "Fahaad",
+        "lname": "Wahid",
+        "gender": "male",
+        "dob": "1982-03-08",
+        "religion": "islam",
+        "preaddress": "Boshundhara r.a, Dhaka, Bangladesh",
+        "paraddress": "",
+        "phone": "01890394973",
+        "email": "fahad@gmail.com",
+        "website": "",
+        "username": "fahad",
+        "password": "fahadfahad"
+    },
+    {
+        "sl": 4,
+        "fname": "Munira",
+        "lname": "Zebin",
+        "gender": "female",
+        "dob": "1982-03-08",
+        "religion": "islam",
+        "preaddress": "Vasantek, Dhaka Cantonment, Dhaka",
+        "paraddress": "",
+        "phone": "01745482666",
+        "email": "munirazebin229@gmail.com",
+        "website": "",
+        "username": "zebu",
+        "password": "zebuzebu"
+    }
+]
